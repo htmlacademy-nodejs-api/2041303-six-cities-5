@@ -1,8 +1,14 @@
 {
   "compilerOptions": {
+<<<<<<< HEAD
     "target": "ES2022",
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
+=======
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+>>>>>>> module9-task1
     "declaration": true,
     "strict": true,
     "noImplicitAny": true,
